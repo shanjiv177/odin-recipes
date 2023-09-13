@@ -1,0 +1,36 @@
+* {
+    background-color:rgb(255, 210, 210);
+    font-size: 30px;
+    color: black;
+    font-family: 'Roboto Slab', 'sans-serif';
+    margin: 0px 3px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+img{
+    display: block;
+    margin: auto auto;
+    border-radius: 30px;
+}
+.recipe-list{
+    width: 90%;
+    margin: auto 5%;
+}
+.recipe-list h1, .recipe-list ul{
+    margin: 6px auto;
+}
+
+p{
+    text-indent: 30px;
+    margin: 6px auto;
+}
+h3{
+    margin: 0px;
+}
+ul, ol{
+    margin: 0px;
+}
